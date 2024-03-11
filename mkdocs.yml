@@ -1,0 +1,21 @@
+site_name: Site of Sucktail(s)
+site_url: https://www.sucktail.win
+
+theme:
+  name: material
+  language: de
+  palette:
+    scheme: slate
+    primary: orange
+    accent: deep orange
+  icon:
+    logo: material/library-shelves
+  features:
+    - navigation.instant  
+plugins:
+  - blog
+ 
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/esc_io
