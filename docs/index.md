@@ -1,3 +1,3 @@
 # Welcome to Sucktail(s)
 
-Only a site for me!
+Only a site for *me*!
